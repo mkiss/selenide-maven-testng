@@ -3,7 +3,7 @@
 /build
 /target
 /test-output
-/functionaltest.iml
+/*.iml
 /.project
 /.classpath
 /test-result
