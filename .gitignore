@@ -1,0 +1,12 @@
+/.idea
+/.settings
+/build
+/target
+/test-output
+/functionaltest.iml
+/.project
+/.classpath
+/test-result
+
+
+
